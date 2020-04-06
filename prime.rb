@@ -1,4 +1,4 @@
 def prime?(num)
- return false if number.integer? 
+ return false if !number.integer? 
   
 end 
