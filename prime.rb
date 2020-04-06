@@ -1,6 +1,4 @@
 def prime?(num)
-  if num < 2 
-    puts false 
-  elsif 
+ return false if number.integer? 
   
 end 
